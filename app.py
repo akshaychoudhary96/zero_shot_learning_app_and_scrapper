@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 from transformers import pipeline,AutoTokenizer, AutoModelForSequenceClassification
 import plotly.express as px
-from PIL import Image
+#from PIL import Image
 
 import matplotlib.pyplot as plt
 import numpy as np
