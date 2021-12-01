@@ -2,7 +2,7 @@ transformers
 pandas
 google_play_scraper
 pygments
-lotly
+plotly
 
 
 
