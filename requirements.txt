@@ -3,6 +3,7 @@ pandas
 google_play_scraper
 pygments
 plotly
-
+matplotlib
+PIL
 
 
