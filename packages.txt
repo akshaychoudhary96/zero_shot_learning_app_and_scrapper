@@ -1,0 +1,11 @@
+apt-get
+transformers
+pandas
+google_play_scraper
+pygments.formatters
+pygments
+pygments.lexers
+lotly
+
+
+
