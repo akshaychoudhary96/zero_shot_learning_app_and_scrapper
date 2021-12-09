@@ -1,3 +1,3 @@
-# zero_shot_learning_app_and_scrapper
+# Scrapper X ZeroShot Classification App
 
 An application to fetch google play store reviews and classify them using zero shot classification in real-time.
